@@ -74,4 +74,4 @@ def main():
 	for i in pr_sorted:
 		print i[0],
 
-main() # Invoking the main function
+main()
